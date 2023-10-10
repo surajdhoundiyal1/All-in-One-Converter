@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">All in One Converter</string>
+    <string name="button_name">Convert</string>
+    <string name="edit_text2">val2</string>
+    <string name="edit_text">val1</string>
+    <string name="text_view3"><b>=</b></string>
+
+</resources>
